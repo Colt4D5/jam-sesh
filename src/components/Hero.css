@@ -35,7 +35,7 @@ video {
 .hero-img {
   height: 100vh;
   width: 100%;
-  background: url('../assets/images/guitar-01.jpg');
+  /* background: url('../assets/images/guitar-01.jpg'); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat, repeat;
